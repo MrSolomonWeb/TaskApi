@@ -1,66 +1,236 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+<html>
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1251">
+<meta name=Generator content="Microsoft Word 15 (filtered)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:0cm;
+	line-height:107%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:36.0pt;
+	line-height:107%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	line-height:107%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	line-height:107%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:8.0pt;
+	margin-left:36.0pt;
+	line-height:107%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+span.MsoSubtleReference
+	{font-variant:small-caps;
+	color:#5A5A5A;}
+.MsoChpDefault
+	{font-family:"Calibri",sans-serif;}
+.MsoPapDefault
+	{margin-bottom:8.0pt;
+	line-height:107%;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
 
-## About Laravel
+</head>
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+<body lang=RU>
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+<div class=WordSection1>
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+<p class=MsoNormal>Тестовое задание:</p>
 
-## Learning Laravel
+<p class=MsoListParagraphCxSpFirst style='text-indent:-18.0pt'>1.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Создать
+2 модели <span lang=EN-US>User</span> и <span lang=EN-US>Gift</span></p>
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt'>2.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Создать
+механизм взаимодействия с БД на:</p>
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+<p class=MsoListParagraphCxSpMiddle>- получение списка пользователей</p>
 
-## Laravel Sponsors
+<p class=MsoListParagraphCxSpMiddle>- получение конкретного пользователя</p>
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+<p class=MsoListParagraphCxSpMiddle>- добавление пользователя</p>
 
-### Premium Partners
+<p class=MsoListParagraphCxSpMiddle>- добавление подарка (подарок может быть
+присвоен как пользователю, так и другому подарку т.е. стать его дочерним
+вложением)</p>
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[CMS Max](https://www.cmsmax.com/)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
-- **[Romega Software](https://romegasoftware.com)**
+<p class=MsoListParagraphCxSpMiddle>- удаление подарка</p>
 
-## Contributing
+<p class=MsoListParagraphCxSpMiddle style='text-indent:-18.0pt'>3.<span
+style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Создать
+5 <span lang=EN-US>API</span> запросов для механизмов взаимодействия</p>
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+<p class=MsoListParagraphCxSpLast>&nbsp;</p>
 
-## Code of Conduct
+<p class=MsoNormal>Пример результата запроса для одного пользователя:</p>
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+<p class=MsoNormal style='text-indent:36.0pt'><span lang=EN-US>Requset: [GET]
+/api/user/1</span></p>
 
-## Security Vulnerabilities
+<p class=MsoListParagraphCxSpFirst><span lang=EN-US>Response:</span></p>
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+<p class=MsoListParagraphCxSpMiddle><span lang=EN-US>&nbsp;</span></p>
 
-## License
+<p class=MsoListParagraphCxSpMiddle style='background:#D0CECE'><span
+lang=EN-US style='font-size:9.0pt;line-height:107%;font-family:"Courier New"'>{</span></p>
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+<p class=MsoListParagraphCxSpMiddle style='background:#D0CECE'><span
+lang=EN-US style='font-size:9.0pt;line-height:107%;font-family:"Courier New"'> 
+&quot;success&quot;: true,</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='background:#D0CECE'><span
+lang=EN-US style='font-size:9.0pt;line-height:107%;font-family:"Courier New"'> 
+&quot;data&quot;: {</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='background:#D0CECE'><span
+lang=EN-US style='font-size:9.0pt;line-height:107%;font-family:"Courier New"'>   
+&quot;id&quot;: 1,</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='background:#D0CECE'><span
+lang=EN-US style='font-size:9.0pt;line-height:107%;font-family:"Courier New"'>   
+&quot;name&quot;: &quot;user&quot;,</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='background:#D0CECE'><span
+lang=EN-US style='font-size:9.0pt;line-height:107%;font-family:"Courier New"'>   
+&quot;email&quot;: &quot;user@mail.com&quot;,</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='background:#D0CECE'><span
+lang=EN-US style='font-size:9.0pt;line-height:107%;font-family:"Courier New"'>   
+&quot;gifts&quot;: [</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='background:#D0CECE'><span
+lang=EN-US style='font-size:9.0pt;line-height:107%;font-family:"Courier New"'>     
+{</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='background:#D0CECE'><span
+lang=EN-US style='font-size:9.0pt;line-height:107%;font-family:"Courier New"'>       
+&quot;id&quot;: 1,</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='background:#D0CECE'><span
+lang=EN-US style='font-size:9.0pt;line-height:107%;font-family:"Courier New"'>       
+&quot;name&quot;: &quot;gift Box&quot;,</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='background:#D0CECE'><span
+lang=EN-US style='font-size:9.0pt;line-height:107%;font-family:"Courier New"'>       
+&quot;gifts&quot;: [</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='background:#D0CECE'><span
+lang=EN-US style='font-size:9.0pt;line-height:107%;font-family:"Courier New"'>         
+{</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='background:#D0CECE'><span
+lang=EN-US style='font-size:9.0pt;line-height:107%;font-family:"Courier New"'>           
+&quot;id&quot;: 2,</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='background:#D0CECE'><span
+lang=EN-US style='font-size:9.0pt;line-height:107%;font-family:"Courier New"'>           
+&quot;name&quot;: &quot;iPhone&quot;</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='background:#D0CECE'><span
+lang=EN-US style='font-size:9.0pt;line-height:107%;font-family:"Courier New"'>         
+},</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='background:#D0CECE'><span
+lang=EN-US style='font-size:9.0pt;line-height:107%;font-family:"Courier New"'>         
+{</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='background:#D0CECE'><span
+lang=EN-US style='font-size:9.0pt;line-height:107%;font-family:"Courier New"'>           
+&quot;id&quot;: 3,</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='background:#D0CECE'><span
+lang=EN-US style='font-size:9.0pt;line-height:107%;font-family:"Courier New"'>           
+&quot;name&quot;: &quot;Apple Watch&quot;</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='background:#D0CECE'><span
+lang=EN-US style='font-size:9.0pt;line-height:107%;font-family:"Courier New"'>         
+}</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='background:#D0CECE'><span
+lang=EN-US style='font-size:9.0pt;line-height:107%;font-family:"Courier New"'>       
+]</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='background:#D0CECE'><span
+lang=EN-US style='font-size:9.0pt;line-height:107%;font-family:"Courier New"'>     
+},</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='background:#D0CECE'><span
+lang=EN-US style='font-size:9.0pt;line-height:107%;font-family:"Courier New"'>     
+{</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='background:#D0CECE'><span
+lang=EN-US style='font-size:9.0pt;line-height:107%;font-family:"Courier New"'>       
+&quot;id&quot;: 4,</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='background:#D0CECE'><span
+lang=EN-US style='font-size:9.0pt;line-height:107%;font-family:"Courier New"'>       
+&quot;name&quot;: &quot;Google glasses 2&quot;</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='background:#D0CECE'><span
+lang=EN-US style='font-size:9.0pt;line-height:107%;font-family:"Courier New"'>     
+}</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='background:#D0CECE'><span
+lang=EN-US style='font-size:9.0pt;line-height:107%;font-family:"Courier New"'>   
+]</span></p>
+
+<p class=MsoListParagraphCxSpMiddle style='background:#D0CECE'><span
+lang=EN-US style='font-size:9.0pt;line-height:107%;font-family:"Courier New"'> 
+}</span></p>
+
+<p class=MsoListParagraphCxSpLast style='background:#D0CECE'><span lang=EN-US
+style='font-size:9.0pt;line-height:107%;font-family:"Courier New"'>}</span></p>
+
+</div>
+
+</body>
+
+</html>
